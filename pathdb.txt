@@ -1,0 +1,1 @@
+ 'mongodb+srv://munish81198:webdev123@cluster0-by0vt.mongodb.net/shop?retryWrites=true&w=majority',{useNewUrlParser:true}

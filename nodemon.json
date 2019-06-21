@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "munish81198",
+        "MONGO_PASS": "webdev123",
+        "STRIPE_KEY": "sk_test_PQe2FCsvz9OiCK3MjHGcjGuP00aqvvhKkc"
+    }
+}
